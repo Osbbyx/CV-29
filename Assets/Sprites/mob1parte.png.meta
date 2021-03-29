@@ -1,0 +1,368 @@
+fileFormatVersion: 2
+guid: 84f66c2a56a974d46be80ac63e58d317
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6674015013724501341
+    second: mob1parte_1
+  - first:
+      213: 4794404921595378855
+    second: mob1parte_3
+  - first:
+      213: 6924948833768942017
+    second: mob1parte_5
+  - first:
+      213: -2791413416568241726
+    second: mob1parte_7
+  - first:
+      213: -5794853178309807324
+    second: mob1parte_8
+  - first:
+      213: 8359829108441004642
+    second: mob1parte_9
+  - first:
+      213: -1272265237384455317
+    second: mob1parte_10
+  - first:
+      213: 9199617048125858806
+    second: mob1parte_12
+  - first:
+      213: 7676184243753621084
+    second: mob1parte_14
+  - first:
+      213: 1513861475746752102
+    second: mob1parte_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1700
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mob1parte_1
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 3293
+        width: 1055
+        height: 1293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d553ca66b4dde9c50800000000000000
+      internalID: 6674015013724501341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mob1parte_3
+      rect:
+        serializedVersion: 2
+        x: 3563
+        y: 3066
+        width: 2218
+        height: 1891
+      alignment: 9
+      pivot: {x: 0.5092793, y: 0.0396387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acb315dfd5298240800000000000000
+      internalID: 4794404921595378855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mob1parte_5
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 3242
+        width: 1027
+        height: 1317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9ad8c364c5a1060800000000000000
+      internalID: 6924948833768942017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mob1parte_7
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 2375
+        width: 735
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1c0348948e249d0800000000000000
+      internalID: -2791413416568241726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mob1parte_8
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 2180
+        width: 973
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423fc4d9cbb849fa0800000000000000
+      internalID: -5794853178309807324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mob1parte_9
+      rect:
+        serializedVersion: 2
+        x: 3477
+        y: 1871
+        width: 519
+        height: 539
+      alignment: 9
+      pivot: {x: 0.9230115, y: 0.9200446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ab8972844140470800000000000000
+      internalID: 8359829108441004642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mob1parte_10
+      rect:
+        serializedVersion: 2
+        x: 4684
+        y: 1902
+        width: 523
+        height: 539
+      alignment: 9
+      pivot: {x: 0.10645932, y: 0.9200446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b1f91e181085ee0800000000000000
+      internalID: -1272265237384455317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mob1parte_12
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 855
+        width: 628
+        height: 848
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07120514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f36b2fa6fa9baf70800000000000000
+      internalID: 9199617048125858806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mob1parte_14
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 781
+        width: 195
+        height: 457
+      alignment: 9
+      pivot: {x: 0.67591524, y: 0.87531304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56926746e8478a60800000000000000
+      internalID: 7676184243753621084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mob1parte_16
+      rect:
+        serializedVersion: 2
+        x: 2941
+        y: 754
+        width: 192
+        height: 457
+      alignment: 9
+      pivot: {x: 0.32133484, y: 0.93536335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666a80dcdf0520510800000000000000
+      internalID: 1513861475746752102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
